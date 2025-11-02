@@ -34,9 +34,6 @@ It allows users to categorize expenses, set budgets, monitor spending, and gener
 ## 📊 Expected Outcome
 A fully functional ServiceNow app that simplifies expense management, ensures transparency, and helps families stay within budget.
 
-## 👩‍💻 Contributors
-- **Your Name**
-- **Team Members (if any)**
 
 ---
 
